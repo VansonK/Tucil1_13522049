@@ -7,7 +7,9 @@ Terdapat sebuah persoalan berupa minigame Cyberpunk 2077 Breach Protocol. Dengan
 Tidak ada kebutuhan khusus untuk menjalankan program ini selain bisa menjalankan program berbahasa python beserta modul-modulnya.
 
 ## How to Use
-Program dapat dijalankan sesuai dengan OS user. Pengguna dapat menggunakan command di bawah ini :
+1. Clone Repository
+2. Program dapat dijalankan sesuai dengan OS user. Pengguna dapat menggunakan command di bawah ini, pastikan directory sudah sesuai dengan file BruteForce.py yang ingin dijalankan :
+
 Windows : python BruteForce.py
 
 Linux   : python3 BruteForce.py
