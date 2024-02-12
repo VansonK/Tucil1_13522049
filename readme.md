@@ -9,6 +9,7 @@ Tidak ada kebutuhan khusus untuk menjalankan program ini selain bisa menjalankan
 ## How to Use
 Program dapat dijalankan sesuai dengan OS user. Pengguna dapat menggunakan command di bawah ini :
 Windows : python BruteForce.py
+
 Linux   : python3 BruteForce.py
 
 ## Made by :
